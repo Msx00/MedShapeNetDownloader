@@ -7,3 +7,6 @@ Related Website:
 https://medshapenet.ikim.nrw/
 
 https://medshapenet.ikim.nrw/uploads/MedShapeNetDataset.txt
+
+
+Please let me know if you meeting any question, email at ma_sx@foxmail.com, I will happy to help you.
